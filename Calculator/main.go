@@ -18,7 +18,8 @@ func main() {
 	// creating a new app and window
 	a := app.New()
 	w := a.NewWindow("Claculator")   // the window name will have calculator
-	w.Resize(fyne.NewSize(500, 280)) // setting size of window
+	a.Settings().SetTheme(theme.LightTheme())
+	// w.Resize(fyne.NewSize(500, 280)) // setting size of window
 
 	// output is what will be shown in the screen, this will change after each button pressed
 
