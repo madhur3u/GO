@@ -166,7 +166,6 @@ func main() {
 			output = ""
 			screen.SetPlaceHolder("Input Invalid")
 		}
-
 		screen.SetText(output)
 	})
 
