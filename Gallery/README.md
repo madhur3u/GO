@@ -8,6 +8,7 @@ This is a simple **Gallery** application made using GO Language and FYNE Module.
 <img src="https://user-images.githubusercontent.com/89251393/139354938-9891706c-ae05-4383-87d3-77f5ef37ff0a.png" width="600"/>
 
 ## Setup
+> **Note :** This application is developed and tested using Linux (Ubuntu 20.04). Some features might not work for other Operating Systems, you have to make changes in the code accordingly. In case of any problem contact me on the links given [here](#contact-details).
 
 To build this application yourself for your operating system follow the steps given below.
 1. Install [GO](https://golang.org/doc/install) in your system.
